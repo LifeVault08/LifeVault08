@@ -1,1 +1,3 @@
-Hello, I am Programmingnoob08. I don't really like the name I chose but I'm too lazy to change it (if I even can). I make weird stuff using Discord.py. (Thank you so much guy who created it, his name was Raptz right?) I hope you like my crappy profile.
+I don't program a lot but when I do it's not that great
+
+I never do anything outside of [discord.py](https://github.com/Rapptz/discord.py) related things, but when I do, it's probably just to annoy my friends
