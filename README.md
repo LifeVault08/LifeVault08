@@ -1,3 +1,5 @@
 I don't program a lot but when I do it's not that great
 
-I never do anything outside of [discord.py](https://github.com/Rapptz/discord.py) (now pycord because discord.py shut down) related things, but when I do, it's probably just to annoy my friends
+It's all python
+All the python code most likely relates to a discord bot
+I am so cool B)
