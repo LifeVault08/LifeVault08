@@ -1,7 +1,3 @@
-I don't program a lot but when I do it's not that great
+I made like two crappy python scripts and hit the first uppy bit of the Dunning-Krueger thingy.
 
-It's all python
-
-All the python code most likely relates to a discord bot
-
-I am so cool B)
+Expect nothing.
